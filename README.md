@@ -1,11 +1,10 @@
 ### Software Developer · Product-Oriented · Data & AI Systems
 
-I’m a software developer focused on building real-world systems that solve concrete problems.
-I enjoy working at the intersection of backend engineering, data, and product, where technical decisions have visible business impact.
+I’m a software developer who enjoys building things, learning constantly, and putting in the work.
+Most of my experience comes from real production systems, where you learn by doing, fixing, and improving over time.
 
-Most of my experience comes from building and maintaining production systems, collaborating with non-technical stakeholders, and making tradeoffs under real constraints (time, scope, complexity).
-
-I care about clarity, ownership, and shipping things that actually get used.
+I’m especially interested in backend systems, data, and how AI can be applied in practical ways.
+Currently, I’m pushing myself to grow towards an AI Engineer role, focusing on understanding systems end to end rather than just tools.
 
 Currently, I work as part of the software cooperative  
 [Lawal Coop](https://lawal.coop/), where we intentionally choose to build technology following cooperative principles: shared ownership, long-term thinking, and people over short-term incentives.
