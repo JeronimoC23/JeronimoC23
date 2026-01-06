@@ -64,12 +64,6 @@ I care about clarity, ownership, and shipping things that actually get used.
 - Software is a product, not just code
 - AI is leverage, not a replacement for thinking
 
----
-
-### GitHub activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeronimoC23&show_icons=true&hide_title=true)
-
----
 
 <sub>
 You probably won’t find a perfectly green contribution calendar here.  
