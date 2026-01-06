@@ -7,6 +7,9 @@ Most of my experience comes from building and maintaining production systems, co
 
 I care about clarity, ownership, and shipping things that actually get used.
 
+Currently, I work as part of the software cooperative  
+[Lawal Coop](https://lawal.coop/), where we intentionally choose to build technology following cooperative principles: shared ownership, long-term thinking, and people over short-term incentives.
+
 ---
 
 
