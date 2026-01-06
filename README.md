@@ -67,7 +67,7 @@ I care about clarity, ownership, and shipping things that actually get used.
 ---
 
 ### GitHub activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeronimoC23&show_icons=true&hide_title=true)
 
 ---
 
