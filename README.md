@@ -13,8 +13,11 @@ Currently, I work as part of the software cooperative
 
 
 ### Previous experience & focus areas
-- Backend systems with Elixir, Phoenix, and Ecto
-- Full-stack development using Next.js, React, and TypeScript
+- Backend systems with
+  - Elixir: Phoenix, Ash and Ecto
+  - Python: FastAPI and Flask
+  - Javascript/Typescript: NodeJS and Express
+- Full-stack development using Next.js, Django and Liveview
 - Data analysis, scripting, and experimentation with Python
 - Product-oriented development: shipping, iterating, maintaining
 
