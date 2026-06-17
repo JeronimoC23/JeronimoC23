@@ -31,6 +31,7 @@ Currently, I work as part of the software cooperative
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 **Backend frameworks**
@@ -46,13 +47,17 @@ Currently, I work as part of the software cooperative
 ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Apollo Server](https://img.shields.io/badge/Apollo_Server-311C87?logo=apollographql&logoColor=white)
 
-**Data & APIs**
+**Data, APIs & Visualization**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 **Frontend**
 
@@ -71,6 +76,7 @@ Currently, I work as part of the software cooperative
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?logo=langfuse&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-5A5A5A)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-222222)
 
 **Tooling, Infra & Deployment**
